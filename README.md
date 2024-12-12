@@ -22,7 +22,7 @@ Dentro de cada carpeta, encontrarás los archivos relacionados con las clases, i
 3. 📝 Realiza tus cambios y mejoras.
 4. 💬 Crea un "pull request" describiendo tus cambios.
 
-¡Esperamos que este repositorio sea una herramienta útil para aprender y mejorar tus habilidades de desarrollo web! Si tienes alguna pregunta, no dudes en levantar un issue o ponerte en contacto con el profesor.
+¡Esperamos que este repositorio sea una herramienta útil para aprender y mejorar tus habilidades de desarrollo web! Si tienes alguna pregunta, no dudes en levantar un issue o ponerte en contacto con el profesor..
 
 ## 📣 ¡Únete a la Comunidad!
 
